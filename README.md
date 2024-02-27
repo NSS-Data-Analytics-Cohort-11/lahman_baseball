@@ -4,9 +4,9 @@
 
 **Directions:**  
 * Within your repository, create a directory named "scripts" which will hold your scripts.
-* Create a new branch for each question. Name these branches using the question number and your initials. For example, Johnny Cash would name his branch for question 3 as question_3_jc. On each branch, you'll create a script to hold your answer. By the end of the project, each student should have ten scripts, one for each of the ten initial questions.  
-* On Saturday morning, you should be prepared to discuss your answers to each question. Each group will review the ten initial questions and merge answers to the main branch. Merging can only take place after the group has reviewed and agreed that the script is correct. After the review session, each group should have a script for each question on the main branch. Each student needs to merge at least two of their answers to the main branch. 
-* Each student should choose one of the open-ended questions or come up with their own and use the database to investigate. At the end of class on Thursday, July 6, each student will give a 5 minute presentation of their findings. For the open-ended portion, pull data from the database, import it into Excel, and use Excel to create visuals.
+* Create a branch to hold your work.
+* For each question, write a query to answer.
+* Complete the initial ten questions before working on the open-ended ones.
 
 **Initial Questions**
 
